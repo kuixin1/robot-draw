@@ -27,5 +27,5 @@ main.py: 主程序
 19.50,13.50,50.00
 ......
 
-
-![Dobot Magician 作画演示](docs/dobot.gif)
+这是一个示例：
+![Dobot Magician 作画演示](dobot.gif)
